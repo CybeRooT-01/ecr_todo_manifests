@@ -19,5 +19,5 @@ spec:
       - name: todo-container
         image: 119330871237.dkr.ecr.eu-north-1.amazonaws.com/todo-app@sha256:a7aaf4b2f3d3daf6a5ff8f01b2f6acdd59f995471fa91b4507c5eea52c6eafa3
         ports:
-        - containerPort: 3000
+        - containerPort: 80
 ...
